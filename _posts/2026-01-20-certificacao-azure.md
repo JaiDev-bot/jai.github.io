@@ -7,4 +7,4 @@ tags: [Azure,Cloud,AWS,GCP]
 
 ## 
 
-![imagem](https://github.com/JaiDev-bot/jaidev-bot.github.io/blob/main/assets/imagens/20-01-2026-Buzz.jpg)
+![imagem](/assets/imagens/20-01-2026-Buzz.jpg)
