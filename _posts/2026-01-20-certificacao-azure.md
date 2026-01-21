@@ -5,4 +5,4 @@ categories: [Cloud]
 tags: [Azure, Certificação]
 ---
 
-Olá mundo! Este é o meu post sobre Cloud A.
+## Az-900
