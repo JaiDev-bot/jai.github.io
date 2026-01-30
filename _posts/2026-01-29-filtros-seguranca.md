@@ -82,7 +82,7 @@ Se a empresa não investe em Red Teaming(times de ataques que testam a seguranç
 
 ---
 
-# A Responsabilidade Legal como algoritmo de punição
+# A responsabilidade legal como algoritmo de punição
 
 Se as empresas dizem que não há controle, por mais que saibamos que há. Então há de se colocar o lembrete: “você é livre para gerar imagem, mas será julgado conforme seu crime.”
 
@@ -98,7 +98,7 @@ Leis como o AI Act da União Europeia e o PL 2338 no Brasil estabelecem que empr
 
 **1 - Watermarking obrigatório:** toda IA que gere imagens deve conter metadados e marca d’agua que identifiquem sua origem.
 
-**2 - Linter de Segurança:** A lei agora exige que o conteúdo seja bloqueado na sua origem, caso não seja, a empresa falhou em proteger dados e garantir a segurança.
+**2 - Linter de segurança:** A lei agora exige que o conteúdo seja bloqueado na sua origem, caso não seja, a empresa falhou em proteger dados e garantir a segurança.
 
 **O direito ao esquecimento e a reparação ágil:**
 
