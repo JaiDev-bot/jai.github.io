@@ -1,5 +1,5 @@
 ---
-title: "Buzz Lightyear não quer mais escalar até a nuvem: sobre a repatriação de dados"
+title: "Buzz Lightyear não quer mais escalar até a nuvem: sobre a repatriação de dados."
 date: 2026-01-20 08:00:00 -0300
 categories: [Cloud]
 tags: [Azure,Cloud,AWS,GCP,Data-Repatriation]
