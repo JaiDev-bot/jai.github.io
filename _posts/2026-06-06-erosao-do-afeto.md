@@ -1,5 +1,5 @@
 ---
-title: "A Erosão do Afeto: IHC"
+title: "A erosão do afeto: IHC"
 date: 2026-06-06 02:36:00 -0300
 categories: [IHC]
 tags: [IHC, IA]
