@@ -7,7 +7,7 @@ tags: [IHC, IA]
 
 
 
-![Buzz Lightyear](/assets/IHC.png)
+
 
 As relações humanas têm se tornado fluidas e complicadas demais para sustentar a estabilidade por muitos anos, ou sequer meses. Diante disso, surge o questionamento: quando exatamente começou esse fenômeno de distanciamento? Há uma tendência nostálgica em dizer que os relacionamentos das décadas passadas eram mais fáceis e duradouros, sob a premissa de que o amor era uma força mais sólida, capaz de suportar a dureza da vida e as crises cotidianas. No entanto, até onde essa visão idílica é verdadeira?
 
